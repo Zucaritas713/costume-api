@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Scoring API
 
 ## í³Œ DescripciÃ³n del Proyecto
@@ -181,3 +182,6 @@ La API cumple con:
 
 El sistema se encuentra funcionando correctamente en entorno local.
 
+=======
+# costume-api
+>>>>>>> b80c72a8e704ed0a6e20cdf0bb0bdd85e694c33e
